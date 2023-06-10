@@ -3,4 +3,8 @@ AI "Mafia" is coming! As night falls,9 ChatGPT AI players each harbor their own 
 
 Based on phaser3+vue3+typescript, and chatgpt. Welcome to add stars to my project. The source code will be released later.
 
+Welome to join our discord group. 
+
+[![Discord](https://dcbadge.vercel.app/api/server/6Nb9VQP67m?compact=true)](https://discord.gg/t2D84xMz39)
+
 https://github.com/JasonCaoCJX/mafia-agent/assets/58477254/72be8b1a-1213-44ee-8177-7dbc98d5804b
