@@ -5,6 +5,6 @@ Based on phaser3+vue3+typescript, and chatgpt. Welcome to add stars to my projec
 
 Welome to join our discord group. 
 
-[![Discord](https://dcbadge.vercel.app/api/server/6Nb9VQP67m?compact=true)](https://discord.gg/t2D84xMz39)
+[![Discord](https://dcbadge.vercel.app/api/server/t2D84xMz39?compact=true)](https://discord.gg/t2D84xMz39)
 
 https://github.com/JasonCaoCJX/mafia-agent/assets/58477254/72be8b1a-1213-44ee-8177-7dbc98d5804b
