@@ -42,7 +42,12 @@ npm run build
 yarn build
 ```
 
-## References
+# Support
+Chinese is used in this project. And there is no backend service deployed for the time being, which means your apikey may not be safe. If you need other languages or other support, you can join Discord to contact me. Or 
+
+[![Discord](https://dcbadge.vercel.app/api/server/t2D84xMz39?compact=true)](https://discord.gg/t2D84xMz39)
+
+# References
 
 1. https://arxiv.org/abs/2304.03442
 2. https://python.langchain.com/en/latest/use_cases/agent_simulations/characters.html#create-a-generative-character
