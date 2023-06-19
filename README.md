@@ -1,7 +1,9 @@
-# Mafia-agent
+# Maifa-agent
 AI "Mafia" is coming! As night falls,9 ChatGPT AI players each harbor their own sinister motives. Let's see who will have the last laugh... 
 
 Based on phaser3+vue3+typescript, and chatgpt (70% of the code is written by chatgpt).
+
+You can directly experience the demo I deployed on huggingface here [Maifa-Agent]https://huggingface.co/spaces/JasonCaoCJX/Maifa-Agent
 
 Welcome to add stars to my project.
 
@@ -39,3 +41,10 @@ npm run build
 # or
 yarn build
 ```
+
+## References
+
+1. https://arxiv.org/abs/2304.03442
+2. https://python.langchain.com/en/latest/use_cases/agent_simulations/characters.html#create-a-generative-character
+3. https://medium.com/swlh/grid-based-movement-in-a-top-down-2d-rpg-with-phaser-3-e3a3486eb2fd
+4. https://finalbossblues.itch.io/
