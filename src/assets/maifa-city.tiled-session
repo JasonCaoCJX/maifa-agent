@@ -1,0 +1,57 @@
+{
+    "activeFile": "maifa_city.tmj.json",
+    "expandedProjectPaths": [
+    ],
+    "exportAsImage.drawObjectLabels": true,
+    "exportAsImage.includeBackgroundColor": true,
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "#MaifaCity": {
+            "scaleInDock": 1
+        },
+        "cloud_city.tmj.json": {
+            "scale": 1.7283489096573208,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 160.55785868781544,
+                "y": 157.95421773612114
+            }
+        },
+        "cloud_city.tmj.json#Cloud City": {
+            "scaleInDock": 1
+        },
+        "maifa_city.tmj": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 376.5,
+                "y": 322
+            }
+        },
+        "maifa_city.tmj#MaifaCity": {
+            "scaleInDock": 1
+        },
+        "maifa_city.tmj.json": {
+            "scale": 0.8312499999999999,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 184.66165413533838,
+                "y": 513.6842105263158
+            }
+        },
+        "maifa_city.tmj.json#MaifaCity": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "maifa_city.tmj.json"
+    ],
+    "project": "",
+    "recentFiles": [
+        "maifa_city.tmj.json",
+        "maifa_city.tmj",
+        "cloud_city.tmj.json"
+    ]
+}
