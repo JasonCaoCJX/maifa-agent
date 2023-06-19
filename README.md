@@ -1,5 +1,5 @@
 # Maifa-agent
-AI "Mafia" is coming! As night falls,9 ChatGPT AI players each harbor their own sinister motives. Let's see who will have the last laugh... 
+AI "Maifa" is coming! As night falls,9 ChatGPT AI players each harbor their own sinister motives. Let's see who will have the last laugh... 
 
 Based on phaser3+vue3+typescript, and chatgpt (70% of the code is written by chatgpt).
 
