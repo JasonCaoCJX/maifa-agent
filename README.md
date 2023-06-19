@@ -3,7 +3,7 @@ AI "Mafia" is coming! As night falls,9 ChatGPT AI players each harbor their own 
 
 Based on phaser3+vue3+typescript, and chatgpt (70% of the code is written by chatgpt).
 
-You can directly experience the demo I deployed on huggingface here [Maifa-Agent]https://huggingface.co/spaces/JasonCaoCJX/Maifa-Agent
+You can directly experience the demo I deployed on huggingface here [Maifa-Agent](https://huggingface.co/spaces/JasonCaoCJX/Maifa-Agent)
 
 Welcome to add stars to my project.
 
